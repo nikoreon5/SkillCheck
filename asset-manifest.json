@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/SkillCheck/static/js/main.20f9c7b1.js",
+    "main.css": "/SkillCheck/static/css/main.8378c5e5.css",
+    "main.js": "/SkillCheck/static/js/main.926955cb.js",
     "index.html": "/SkillCheck/index.html",
-    "main.20f9c7b1.js.map": "/SkillCheck/static/js/main.20f9c7b1.js.map"
+    "main.8378c5e5.css.map": "/SkillCheck/static/css/main.8378c5e5.css.map",
+    "main.926955cb.js.map": "/SkillCheck/static/js/main.926955cb.js.map"
   },
   "entrypoints": [
-    "static/js/main.20f9c7b1.js"
+    "static/css/main.8378c5e5.css",
+    "static/js/main.926955cb.js"
   ]
 }
